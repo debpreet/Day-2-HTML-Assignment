@@ -1,0 +1,33 @@
+body{
+    background-image: url(./Cat\ BG.jpg) ;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    border: 4px solid #FDE49C;
+    Text-align: center;
+    color: #DF711B;
+    background-color: #753422;
+}
+#p1{
+    color: #FDE49C;
+    background-color: #B05B3B;
+    margin:200px 1000px 10px 0px;
+    padding: 20px;
+
+}
+#p2{
+    color: #FDE49C;
+    background-color: #B05B3B;
+    margin:10px 50px 10px 700px;
+    padding: 20px;
+
+}
+#p3{
+    color: #FDE49C;
+    background-color: #B05B3B;
+    margin:10px 500px 10px 0px;
+    padding: 20px;
+
+}
